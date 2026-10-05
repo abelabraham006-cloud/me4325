@@ -88,3 +88,114 @@ Volunteer Activities
 Supported the Limerick Early Music Festival as an usher, assisting guests. Participated in the Milford Hospice 10km
 Walk/Run, helping coordinate participants and event operations. Also volunteered at community and cultural events,
 developing teamwork, adaptability, and customer service skills.
+
+
+
+
+Assignments
+Assignment	Completion Status	     Score     	Evaluation Status
+No Category
+Work log 2
+Due on 29 September 2026 11:59 PM
+1 Submission, 1 File	
+- / 1	 
+Work log 1
+Due on 22 September 2026 11:59 PM
+1 Submission, 1 File	
+1 / 1 - 100 %
+Feedback: Unread
+Work log 3
+Due on 06 October 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 4
+Due on 13 October 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 5
+Due on 20 October 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 6
+Due on 27 October 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 7
+Due on 03 November 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 8
+Due on 10 November 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 9
+Due on 17 November 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 10
+Due on 24 November 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 11
+Due on 01 December 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Work log 12
+Due on 08 December 2026 11:59 PM
+Not Submitted	
+- / 1	 
+Progress report 1
+Due on 24 September 2026 11:59 PM
+1 Submission, 1 File	
+3 / 3 - 100 %
+Feedback: Unread
+Progress report 2
+Due on 08 October 2026 11:59 PM
+Not Submitted	
+- / 3	 
+Progress report 3
+Due on 22 October 2026 11:59 PM
+Not Submitted	
+- / 3	 
+Progress report 4
+Due on 05 November 2026 11:59 PM
+Not Submitted	
+- / 3	 
+Progress report 5
+Due on 18 November 2026 11:59 PM
+Not Submitted	
+- / 3	 
+Progress report 6
+Due on 02 December 2026 11:59 PM
+Not Submitted	
+- / 3	 
+Feasibility and Recommendations Report Submission
+Due on 18 November 2026 11:59 PM
+Not Submitted	
+- / 15	 
+Task 1
+Due on 21 September 2026 11:59 PM
+1 Submission, 1 File	
+5 / 5 - 100 %
+Feedback: Unread
+Task 2
+Due on 05 October 2026 11:59 PM
+Not Submitted	
+- / 5	 
+Task 3
+Due on 19 October 2026 11:59 PM
+Not Submitted	
+- / 5	 
+Task 4
+Due on 02 November 2026 11:59 PM
+Not Submitted	
+- / 5	 
+Task 5
+Due on 16 November 2026 11:59 PM
+Not Submitted	
+- / 5	 
+
+
+
+
+
