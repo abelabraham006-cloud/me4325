@@ -197,5 +197,24 @@ Not Submitted
 
 
 
+| First Header  | Second Header | | Third Header  |
+| ------------- | ------------- | | ------------- |
+| Content Cell  | Content Cell  | | Content Cell  |
+| Content Cell  | Content Cell  | | Content Cell  |
+| Content Cell  | Content Cell  | | Content Cell  |
+
+1. Planning
+   - Define project objectives
+   - Identify required components
+
+2. Development
+   - Write the program
+   - Assemble the hardware
+
+3. Testing
+   - Test system functionality
+   - Debug any errors
+  
+  <img width="350" height="160" alt="image" src="https://github.com/user-attachments/assets/995c4e16-4171-4c12-97e0-2853cee1b4fd" />
 
 
