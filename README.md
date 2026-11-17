@@ -217,4 +217,8 @@ Not Submitted
   
   <img width="350" height="160" alt="image" src="https://github.com/user-attachments/assets/995c4e16-4171-4c12-97e0-2853cee1b4fd" />
 
+## CV
 
+You can view my CV here:
+
+[**View My CV**](cv.md)
