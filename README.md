@@ -221,4 +221,4 @@ Not Submitted
 
 You can view my CV here:
 
-[**View My CV**](cv.md)
+[**View My CV**](CV.md)
